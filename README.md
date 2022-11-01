@@ -24,7 +24,7 @@ The following items should be installed in your system:
 * maven compile
   ```
   ${yourPath}/primeNumbers> mvn clean install
-  ${yourPath}/primeNumbers> java -jar .\target\primesNumbers-1.0-SNAPSHOT-jar-with-dependencies.jar "${yourPath}/example.xlsx" 
+  ${yourPath}/primeNumbers> java -jar target/primesNumbers-1.0-SNAPSHOT-jar-with-dependencies.jar "${yourPath}/example.xlsx" 
   ```
   
   
