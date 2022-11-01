@@ -18,6 +18,7 @@ The following items should be installed in your system:
   
 * shell script compile
   ```
+  chmod +x run.sh
   ${yourPath}/primeNumbers>./run.sh "{yourPath}/example.xlsx"
   ```
   
